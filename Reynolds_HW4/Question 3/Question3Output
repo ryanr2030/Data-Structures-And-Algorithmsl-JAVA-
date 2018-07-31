@@ -1,0 +1,60 @@
+   ----jGRASP exec: java Question3
+     ----   at: Nov 16, 2017 1:19:43 PM
+     ----jGRASP wedge: pid for process is 1238  pids for wedge are 1236 and 1237.
+     ----jGRASP wedge: CLASSPATH is ":.:::/Applications/jGRASP.app/Contents/Resources/jgrasp/extensions/classes".
+     ----jGRASP wedge: working directory is /Users/ryanreynolds/Documents/CSU Class Folders/Fall 2017/CIS 265 Data structure and algorithms/Homeworks/Reynolds_HW4/Question 3
+     ----jGRASP wedge2: actual command sent [/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java Question3].
+    229 
+    227 
+    223 
+    211 
+    199 
+    197 
+    193 
+    191 
+    181 
+    179 
+    173 
+    167 
+    163 
+    157 
+    151 
+    149 
+    139 
+    137 
+    131 
+    127 
+    113 
+    109 
+    107 
+    103 
+    101 
+    97 
+    89 
+    83 
+    79 
+    73 
+    71 
+    67 
+    61 
+    59 
+    53 
+    47 
+    43 
+    41 
+    37 
+    31 
+    29 
+    23 
+    19 
+    17 
+    13 
+    11 
+    7 
+    5 
+    3 
+    2 
+    
+     ----jGRASP wedge: exit code for process is 0.
+     ----jGRASP: operation complete.
+    
